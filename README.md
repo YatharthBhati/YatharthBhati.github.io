@@ -11,7 +11,8 @@ Personal portfolio of low-cost engineering projects, live at **[yatharthbhati.co
 ## Structure
 
 ```
-index.html                                   Main page (project list)
+index.html                                   Main page: about me, what I do, projects
+assets/                                      Photos used on the main page
 projects/low-cost-efficient-air-purifier/    Air purifier project page
 projects/airpurifieratmwl/                   Redirect from the old project URL
 CNAME                                        Custom domain (yatharthbhati.com)
